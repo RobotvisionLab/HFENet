@@ -15,6 +15,7 @@ A lightweight hand-crafted feature enhanced CNN(HFENet) is proposed for ceramic 
 #### opencv-python = 4.2.0
 
 # Dataset
-[Tile surface images with ten different patterns taken by a high-definition industrial camera](https://drive.google.com/drive/folders/1jTbeV_5mdxmrTrLFHkldEjDmh3TmgNX_?usp=sharing)
+[Tile surface images with ten different patterns taken by a high-definition industrial camera]
+(https://drive.google.com/drive/folders/1n2u-sAk_DXCr9bd_USaVTw_J8WSj6iXJ?usp=sharing)
 
 # How to train and test
