@@ -10,5 +10,6 @@ A lightweight hand-crafted feature enhanced CNN(HFENet) is proposed for ceramic 
 # Environment for train and test
 
 # Dataset
+[Tile surface images with ten different patterns taken by a high-definition industrial camera](https://drive.google.com/drive/folders/1jTbeV_5mdxmrTrLFHkldEjDmh3TmgNX_?usp=sharing)
 
 # How to train and test
