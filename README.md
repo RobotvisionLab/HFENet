@@ -35,3 +35,9 @@ python main.py --info
 ```
 python main --demo
 ```
+
+####test.bmp
+![test.bmp](https://github.com/RobotvisionLab/HFENet/blob/main/image/test.bmp)
+
+####result.bmp
+![result.bmp](https://github.com/RobotvisionLab/HFENet/blob/main/image/result.bmp)
