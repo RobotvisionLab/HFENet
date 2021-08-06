@@ -33,5 +33,5 @@ python main.py --info
 
 ###  4.run a demo
 ```
-python main --demo
+python main.py --demo
 ```
