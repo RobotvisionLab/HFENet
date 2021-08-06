@@ -30,3 +30,8 @@ python main.py --test
 ```
 python main.py --info
 ```
+
+###  4.run a demo
+```
+python main --demo
+```
