@@ -18,3 +18,9 @@ A lightweight hand-crafted feature enhanced CNN(HFENet) is proposed for ceramic 
 [Tile surface images with ten different patterns taken by a high-definition industrial camera](https://drive.google.com/drive/folders/1n2u-sAk_DXCr9bd_USaVTw_J8WSj6iXJ?usp=sharing)
 
 # How to train and test
+###  train
+#### python main.py --train
+###  test
+#### python main.py --test
+###  caculate the parameters, FLOPs and MAC of the net
+#### python main.py --info
