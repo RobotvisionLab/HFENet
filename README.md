@@ -20,13 +20,13 @@ A lightweight hand-crafted feature enhanced CNN(HFENet) is proposed for ceramic 
 # How to train and test
 ###  1.train
 ```
-python main.py *--train*
+python main.py --train
 ```
 ###  2.test
 ```
-python main.py *--test*
+python main.py --test
 ```
 ###  3.caculate the parameters, FLOPs and MAC of the net
 ```
-python main.py *--info*
+python main.py --info
 ```
