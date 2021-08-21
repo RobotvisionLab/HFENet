@@ -94,7 +94,6 @@ class HFENet(nn.Module):
 		self.resmoduleB4 = ResModule_B(in_channels=32, out_channels=32)
 		self.resmoduleB5 = ResModule_B(in_channels=32, out_channels=32)
 		self.resmoduleB6 = ResModule_B(in_channels=32, out_channels=32)
-		self.resmoduleB7 = ResModule_B(in_channels=32, out_channels=32)
 
 		#three upsample layers
 		self.upsample1_conv = convLayer(in_channels=64, out_channels=32, kernel_size=3, stride=1, padding=1, dilation=1)
